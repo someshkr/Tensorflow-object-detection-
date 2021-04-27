@@ -1,0 +1,56 @@
+item {
+    id: 1
+    name: 'Car'
+}
+
+item {
+    id: 2
+    name: 'Bike'
+}
+
+item {
+    id: 3
+    name: 'Auto rickshaw'
+}
+
+item {
+    id: 4
+    name: 'Truck'
+}
+
+item {
+    id: 5
+    name: 'Human'
+}
+
+item {
+    id: 6
+    name: 'Van'
+}
+
+item {
+    id: 7
+    name: 'Jeep'
+}
+
+item {
+    id: 8
+    name: 'Bus'
+}
+
+item {
+    id: 9
+    name: 'Scooter'
+}
+
+item {
+    id: 10
+    name: 'Taxi'
+}
+
+item {
+    id: 11
+    name: 'Zebra crossing'
+}
+
+
